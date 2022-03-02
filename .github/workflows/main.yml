@@ -46,4 +46,4 @@ jobs:
 
       - name: Build testexe
         run: |
-          pyinstaller --onefile main.py
+          pyinstaller --onefile test.py
